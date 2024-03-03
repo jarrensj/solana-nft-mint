@@ -5,3 +5,4 @@
 - the NFT metadata points to a URI specified by the program owner, which can be updated as needed
 - cost of mint is: 
 - the royalty fee is: 
+- max supply is: 
