@@ -1,4 +1,4 @@
-# solana nft mint program
+# solana nft mint program with Saga Genesis Token requirement for mint 
 
 - one mint per wallet
 - Saga Genesis Token required: only wallets holding a Saga Genesis Token can mint
