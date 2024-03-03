@@ -5,4 +5,6 @@
 - the NFT metadata points to a URI specified by the program owner, which can be updated as needed
 - cost of mint is: 
 - the royalty fee is: 
-- max supply is: 
+- max supply is:
+
+Saga Genesis Token collection NFT address is 46pcSL5gmjBrPqGKFaLbbCmR6iVuLJbnQy13hAe7s6CC
